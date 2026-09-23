@@ -1,0 +1,7 @@
+Meeting notes - Sept 9
+
+Please contact John at john.doe@example.com for the report.
+CC Sara at sara_smith123@company.co and the admin team at admin@company.co.
+Duplicate test: john.doe@example.com (appears again on purpose)
+Invalid entries that should NOT match: not-an-email, someone@, @missing.com
+Also reach out to support+billing@my-startup.io if there are payment issues.
